@@ -1,4 +1,12 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
 .jekyll-metadata
+.idea
+/_data/
+/_includes/
+/assets/
+/Gemfile
+/Gemfile.lock
+/_sass/
+/_layouts/
+.jekyll-cache/
